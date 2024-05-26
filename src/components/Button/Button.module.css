@@ -1,0 +1,7 @@
+.connect-wallet-btn {
+  border: 1px solid var(--black);
+  border-radius: 87px;
+  padding: 24px 42px;
+  width: 203px;
+  height: 67px;
+}
